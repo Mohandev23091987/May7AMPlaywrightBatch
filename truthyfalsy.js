@@ -16,3 +16,12 @@ if(null){
 // other than this all are truthy
 
 //falsy values 
+
+
+//let 
+// var 
+// const
+
+
+//static 
+//instance

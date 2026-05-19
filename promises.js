@@ -28,8 +28,9 @@
 
 let promiseobj = new Promise((resolve,reject)=>{
 
-resolve("this is mypogram");
+reject("this is a error mypogram");
 });
+//fullfilled ,
 
 promiseobj.then((result)=>{
 console.log(result)
